@@ -1,0 +1,13 @@
+{
+  "name": "Arabian Gulf Token",
+  "symbol": "ARBG",
+  "decimals": 9,
+  "address": "5wkpp3YvA3cwKsAovAiq2RzQwZvye1oAPw42TPC2nnms",
+  "logoURI": "https://raw.githubusercontent.com/Artist-Global/arbg/main/582962f2-527f-4351-b99a-1b6e67ab121a.png",
+  "tags": ["token", "utility", "solana"],
+  "extensions": {
+    "website": "https://artist-global.github.io",
+    "github": "https://github.com/Artist-Global/arbg",
+    "description": "ARBG is a community-driven utility token on Solana supporting artist projects globally."
+  }
+}
